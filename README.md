@@ -43,15 +43,38 @@ PASOS SEGUIDOS
 
 <img width="658" alt="ranking españa forbes" src="https://user-images.githubusercontent.com/115650089/203254022-bbe5435b-69f7-45d1-812e-d56c08aa6323.png">
 
-2. MAPA DE DISTRIBUCIÓN DE LAS CC.AA QUE MÁS APARECEN EN EL RANNKING ESPAÑOL COMPLETO VS MAPA DE DISTRIBUCIÓN DE RIQUEZA DE LAS CC.AA EN EL RANKING:
+4. MAPA DE DISTRIBUCIÓN DE LAS CC.AA QUE MÁS APARECEN EN EL RANNKING ESPAÑOL COMPLETO VS MAPA DE DISTRIBUCIÓN DE RIQUEZA DE LAS CC.AA EN EL RANKING:
 
 <img width="313" alt="mapa personas españa" src="https://user-images.githubusercontent.com/115650089/203254363-451e532d-886f-46a7-a81b-5703a254df06.png">
 
 <img width="319" alt="mapa dinero españa" src="https://user-images.githubusercontent.com/115650089/203254546-6e129550-1ce0-42c8-b895-943f51646c76.png">
 
--- Siendo estos diferentes, debido al valor de las empresas --
+-- Siendo estos diferentes, debido al valor de las empresas. Las empresas de Galicia son más grandes en total que las de Madrid y Cataluña juntas --
 
-4. 
+5. RAKING DE LAS 10 EMPRESAS MÁS GRANDES DE ANDALUCÍA SEGÚN SUS VENTAS
+
+<img width="648" alt="ranking andalucia ventas" src="https://user-images.githubusercontent.com/115650089/203262860-adfee427-4755-4cd2-aeb9-3da444cabdbe.png">
+
+6. MAPA DE LA SUMA DE VENTAS DE LAS EMPRESAS DE ANDALUCÍA (TODA LA LISTA)
+
+<img width="664" alt="mapa ventas and" src="https://user-images.githubusercontent.com/115650089/203263093-b1e19e89-203d-4c65-8008-dc1a9fa6d5fe.png">
+
+-- Siendo Sevilla la más notable --
+
+7. RAKING DE LAS 10 EMPRESAS MÁS GRANDES DE ANDALUCÍA SEGÚN SUS EBITDA
+
+<img width="649" alt="rank ebitda and" src="https://user-images.githubusercontent.com/115650089/203263431-f4d5b0ca-e616-439e-80c3-66d01334f061.png">
+
+8. MAPA DE LA SUMA DE EBITDA DE LAS EMPRESAS DE ANDALUCÍA (TODA LA LISTA)
+
+<img width="650" alt="mapa and ebitda" src="https://user-images.githubusercontent.com/115650089/203263855-45bc7e1b-1b1e-4dce-89d2-8aac13f59964.png">
+
+-- Siendo de nuevo Sevilla la más notable, junto a Málaga --
+
+9. RECUENTO DE SECTORES DE LAS EMPRESAS DE ANDALUCÍA
+
+<img width="659" alt="actividades and" src="https://user-images.githubusercontent.com/115650089/203264437-5c921440-922a-4083-811a-d3f998468981.png">
+
 
 
 
