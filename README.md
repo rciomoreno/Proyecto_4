@@ -75,7 +75,10 @@ PASOS SEGUIDOS
 
 <img width="659" alt="actividades and" src="https://user-images.githubusercontent.com/115650089/203264437-5c921440-922a-4083-811a-d3f998468981.png">
 
+👀 -- PARA VER MÁS -- 👀 
 
+Como se indica en un principio, estos análisis se hicieron en Tableau. El link para ver el proyecto completo, es el siguiente:
 
+<https://public.tableau.com/app/profile/roc.o.moreno/viz/RANKINGSDERIQUEZA/Rankingsderiqueza?publish=yes>
 
 
